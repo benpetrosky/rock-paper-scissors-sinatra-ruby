@@ -1,5 +1,5 @@
 require('rspec')
-require('./lib/beats?')
+require('./lib/beats')
 
 describe('String#rock_paper_scissors') do
   it("returns true if rock is the object and scissors is the argument") do
